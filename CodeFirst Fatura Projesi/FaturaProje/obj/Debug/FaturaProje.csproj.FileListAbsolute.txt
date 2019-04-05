@@ -1,0 +1,139 @@
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\bin\Debug\FaturaProje.exe.config
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\bin\Debug\FaturaProje.exe
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\bin\Debug\FaturaProje.pdb
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\bin\Debug\EntityFramework.dll
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\bin\Debug\EntityFramework.xml
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Form1.resources
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormBirim.resources
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormIl.resources
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormIlce.resources
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormMusteri.resources
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormUrun.resources
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.FormYeniFatura.resources
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Migrations.ilk.resources
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Properties.Resources.resources
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.csproj.GenerateResource.Cache
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.exe
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.pdb
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.FormFaturaSorgulama.resources
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.csprojResolveAssemblyReference.cache
+C:\Projeler\9.Hafta (Bayram sonrası)\19 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.FormFaturaDetay.resources
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\bin\Debug\FaturaProje.exe.config
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.exe
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.pdb
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\bin\Debug\FaturaProje.exe
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\bin\Debug\FaturaProje.pdb
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\bin\Debug\EntityFramework.dll
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\bin\Debug\EntityFramework.xml
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.csprojResolveAssemblyReference.cache
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Form1.resources
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormBirim.resources
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.FormFaturaDetay.resources
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.FormFaturaSorgulama.resources
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormIl.resources
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormIlce.resources
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormMusteri.resources
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormUrun.resources
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.FormYeniFatura.resources
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Properties.Resources.resources
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.csproj.GenerateResource.Cache
+D:\Yazılım KURS\9.Hafta (Bayram sonrası)(Fatura Projesi)\19-20-21 Eylül\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Migrations.ilk.resources
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\bin\Debug\FaturaProje.exe.config
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\obj\Debug\FaturaProje.exe
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\obj\Debug\FaturaProje.pdb
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\bin\Debug\FaturaProje.exe
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\bin\Debug\FaturaProje.pdb
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\bin\Debug\EntityFramework.dll
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\bin\Debug\EntityFramework.xml
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\obj\Debug\FaturaProje.csprojResolveAssemblyReference.cache
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Form1.resources
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormBirim.resources
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\obj\Debug\FaturaProje.FormFaturaDetay.resources
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\obj\Debug\FaturaProje.FormFaturaSorgulama.resources
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormIl.resources
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormIlce.resources
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormMusteri.resources
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormUrun.resources
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\obj\Debug\FaturaProje.FormYeniFatura.resources
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Properties.Resources.resources
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\obj\Debug\FaturaProje.csproj.GenerateResource.Cache
+C:\Users\muham\Desktop\ProjeSon\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Migrations.ilk.resources
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\bin\Debug\FaturaProje.exe.config
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\obj\Debug\FaturaProje.exe
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\obj\Debug\FaturaProje.pdb
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\bin\Debug\FaturaProje.exe
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\bin\Debug\FaturaProje.pdb
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\bin\Debug\EntityFramework.dll
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\bin\Debug\EntityFramework.xml
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\obj\Debug\FaturaProje.csprojResolveAssemblyReference.cache
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Form1.resources
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormBirim.resources
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\obj\Debug\FaturaProje.FormFaturaDetay.resources
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\obj\Debug\FaturaProje.FormFaturaSorgulama.resources
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormIl.resources
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormIlce.resources
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormMusteri.resources
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormUrun.resources
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\obj\Debug\FaturaProje.FormYeniFatura.resources
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Migrations.ilk.resources
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\obj\Debug\FaturaProje.Properties.Resources.resources
+C:\Users\SamilYilmaz\Desktop\FaturaProje\FaturaProje\obj\Debug\FaturaProje.csproj.GenerateResource.Cache
+C:\msnet\Egitim1501\7.EF\FaturaProje\FaturaProje\bin\Debug\FaturaProje.exe.config
+C:\msnet\Egitim1501\7.EF\FaturaProje\FaturaProje\obj\Debug\FaturaProje.exe
+C:\msnet\Egitim1501\7.EF\FaturaProje\FaturaProje\obj\Debug\FaturaProje.pdb
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\bin\Debug\FaturaProje.exe.config
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\bin\Debug\FaturaProje.exe
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\bin\Debug\FaturaProje.pdb
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\bin\Debug\EntityFramework.dll
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\bin\Debug\EntityFramework.xml
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\obj\Debug\FaturaProje.csprojAssemblyReference.cache
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\obj\Debug\FaturaProje.Form1.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormBirim.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\obj\Debug\FaturaProje.FormFaturaDetay.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\obj\Debug\FaturaProje.FormFaturaSorgulama.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormIl.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormIlce.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormMusteri.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\obj\Debug\FaturaProje.Formlar.FormUrun.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\obj\Debug\FaturaProje.FormYeniFatura.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\obj\Debug\FaturaProje.Migrations.ilk.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\obj\Debug\FaturaProje.Properties.Resources.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\obj\Debug\FaturaProje.csproj.GenerateResource.cache
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\obj\Debug\FaturaProje.csproj.CoreCompileInputs.cache
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\obj\Debug\FaturaProje.csproj.CopyComplete
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\obj\Debug\FaturaProje.exe
+D:\Ayvansaray Universitesi\MsNet1\7.EF\21-FaturaProje\FaturaProje\obj\Debug\FaturaProje.pdb
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\bin\Debug\FaturaProje.exe.config
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\bin\Debug\FaturaProje.exe
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\bin\Debug\FaturaProje.pdb
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\bin\Debug\EntityFramework.dll
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\bin\Debug\EntityFramework.xml
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\obj\Debug\FaturaProje.csprojAssemblyReference.cache
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\obj\Debug\FaturaProje.Form1.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\obj\Debug\FaturaProje.Formlar.FormBirim.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\obj\Debug\FaturaProje.FormFaturaDetay.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\obj\Debug\FaturaProje.FormFaturaSorgulama.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\obj\Debug\FaturaProje.Formlar.FormIl.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\obj\Debug\FaturaProje.Formlar.FormIlce.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\obj\Debug\FaturaProje.Formlar.FormMusteri.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\obj\Debug\FaturaProje.Formlar.FormUrun.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\obj\Debug\FaturaProje.FormYeniFatura.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\obj\Debug\FaturaProje.Migrations.ilk.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\obj\Debug\FaturaProje.Properties.Resources.resources
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\obj\Debug\FaturaProje.csproj.GenerateResource.cache
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\obj\Debug\FaturaProje.csproj.CoreCompileInputs.cache
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\obj\Debug\FaturaProje.csproj.CopyComplete
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\obj\Debug\FaturaProje.exe
+D:\Ayvansaray Universitesi\MsNet1\7.EF\2-CodeFirstFaturaProje-4\FaturaProje\obj\Debug\FaturaProje.pdb
